@@ -19,7 +19,7 @@ minify_install () {
     minify -r -o ".$USRLOC" --match="\.js" $NAME
     #minify -r -o ".$USRLOC" --match="\.css" $NAME
     #minify -r -o ".$USRLOC" --match="\.html" $NAME
-    cp "$NAME/xnas.html" ".$USRLOC/"
+    cp "$NAME/syncwatch.html" ".$USRLOC/"
     cp "$NAME/manifest.json" ".$USRLOC/"
 }
 
