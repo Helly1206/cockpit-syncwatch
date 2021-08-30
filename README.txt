@@ -1,9 +1,9 @@
-cockpit-syncwatch v0.8.0
+cockpit-syncwatch v0.8.1
 
 cockpit-syncwatch -- cockpit UI for SyncWatch
 ================= == ======= == === =========
 
-This plugin not heavily documented yet, but that is probably not nessessary. It's a cockit UI to use and
+This plugin not heavily documented yet, but that is probably not necessary. It's a cockpit UI to use and
 configure SyncWatch from a web UI.
 
 It uses cockpit-stdplgin as standard look and feel for this UI.
