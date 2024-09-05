@@ -1,4 +1,4 @@
-cockpit-syncwatch v0.8.3
+cockpit-syncwatch v0.8.4
 
 cockpit-syncwatch -- cockpit UI for SyncWatch
 ================= == ======= == === =========

@@ -19,7 +19,7 @@ import subprocess
 #########################################################
 
 ####################### GLOBALS #########################
-VERSION      = "0.80"
+VERSION      = "0.84"
 DAEMONSYNCWATCH = "syncwatch"
 CMDNOTEXIST  = 127
 CMDTIMEOUT   = 124
